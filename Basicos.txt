@@ -1,0 +1,2 @@
+Html: muestra contenido y darle forma
+html5:minimisa consumo de memoria
