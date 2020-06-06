@@ -1,2 +1,5 @@
 Html: muestra contenido y darle forma
 html5:minimisa consumo de memoria
+
+Etiquetas basicas de Html
+https://developer.mozilla.org/es/docs/HTML/HTML5/HTML5_lista_elementos
